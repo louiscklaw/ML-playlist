@@ -6,5 +6,4 @@ git add .
 
 git commit -m"update ml-playlist,"
 
-git push &
-
+git push 
